@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "ccppvscode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
