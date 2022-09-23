@@ -7,7 +7,12 @@
 	"settings": {
 		"files.associations": {
 			"iostream": "cpp",
-			"ostream": "cpp"
-		}
+			"ostream": "cpp",
+			"random": "c",
+			"*.tcc": "cpp",
+			"stdio.h": "c",
+			"asign2_1.C": "cpp"
+		},
+		"git.ignoreLimitWarning": true
 	}
 }
